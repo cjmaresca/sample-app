@@ -56,6 +56,7 @@ sudo npm link
 2. Navigate out of the current folder to the `app-token-angular` folder, and run the following command:
 
 ```shell
+sudo npm install
 sudo ng serve
 ```
 
